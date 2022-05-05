@@ -26,7 +26,7 @@ const NoteForm = ({ createNote }) => {
           })
         }
       >
-        Ekle
+        Create Note 
       </Button>
     </>
   );
